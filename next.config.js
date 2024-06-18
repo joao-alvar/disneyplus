@@ -2,11 +2,8 @@
 
 const nextConfig = {
   reactStrictMode: true,
-  compiler: {
-    styledComponents: true,
-  },
   images: {
-    domains: ['prod-ripcut-delivery.disney-plus.net'],
+    domains: ['disney-plus-v1.vercel.app'],
   },
 }
 
